@@ -9,10 +9,10 @@
 - [@lskjs/button](./packages/button/README.md)
 - [@lskjs/tag](./packages/tag/README.md)
 -----
-- [@lskjs/article](./packages/article/README.md) – react компоненты для отображения статей в том числе markdown
-- [@lskjs/chat](./packages/chat/README.md) – react компоненты для чата ПРИДУМКА СОНИ TODO: нужно уже оформить
-- [@lskjs/dashboard](./packages/dashboard/README.md) –  часто использумые react  компоненты для админок и дешбордов: admin-lte/
-- [@lskjs/dev](./packages/dev/README.md) – тут вспомогательные реакт компоненты для разработки и отладки
+- [@lskjs/article](./packages/article/README.md)
+- [@lskjs/chat](./packages/chat/README.md)
+- [@lskjs/dashboard](./packages/dashboard/README.md)
+- [@lskjs/dev](./packages/dev/README.md)
 - [@lskjs/form](./packages/form/README.md) – тут реакт враперы для форм, построенные вокруг формика
 - [@lskjs/form-input](./packages/form-input/README.md) – контрол формы Input
 - [@lskjs/form-select](./packages/form-select/README.md) – контрол формы Select AsyncSelect
