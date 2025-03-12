@@ -13,9 +13,9 @@
 - [@lskjs/chat](./packages/chat/README.md)
 - [@lskjs/dashboard](./packages/dashboard/README.md)
 - [@lskjs/dev](./packages/dev/README.md)
-- [@lskjs/form](./packages/form/README.md) – тут реакт враперы для форм, построенные вокруг формика
-- [@lskjs/form-input](./packages/form-input/README.md) – контрол формы Input
-- [@lskjs/form-select](./packages/form-select/README.md) – контрол формы Select AsyncSelect
+- [@lskjs/form](./packages/form/README.md)
+- [@lskjs/form-input](./packages/form-input/README.md)
+- [@lskjs/form-select](./packages/form-select/README.md)
 - [@lskjs/form-calendar](./packages/form-calendar/README.md) – контрол формы для календарей
 - [@lskjs/form-geo](./packages/form-geo/README.md) – контрол формы для карт
 - [@lskjs/form-files](./packages/form-files/README.md) – контролы формы  для загрузки файлов, дропзоун, загрузка изображений и кроппер
