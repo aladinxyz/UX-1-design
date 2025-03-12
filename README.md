@@ -2,10 +2,6 @@
 > Huge customizeble React-based framework with many cases.
 ## Easy to implement. Simple in usage. Just like a lego constructor.
 
-это монореп (управляется lenrа'ой), для фронтовых компонентов, тут нет никакого серверного кода и поэтому нету .env
-нас интересует в данный момент ui
-`npm run dev` - делает просто сборку src=>build, это необходимо, когда мы линкуем пакеты к реальному  проекту и тестриуем в живой среде
-
 
 
 ## [Tutorial](/blog/tutorial.md)
