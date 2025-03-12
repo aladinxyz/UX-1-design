@@ -1,19 +1,13 @@
 # LSK – UX packages
 > Huge customizeble React-based framework with many cases.
 ## Easy to implement. Simple in usage. Just like a lego constructor.
-
-
-
 ## [Tutorial](/blog/tutorial.md)
-
-
 ## [Storybook](https://lskjs.github.io/ux)
-
 
 ## Packages
 
-- [@lskjs/button](./packages/button/README.md) – React компоненты для кнопки и группы кнопок
-- [@lskjs/tag](./packages/tag/README.md) – React компоненты для тега и группы тегов
+- [@lskjs/button](./packages/button/README.md)
+- [@lskjs/tag](./packages/tag/README.md)
 -----
 - [@lskjs/article](./packages/article/README.md) – react компоненты для отображения статей в том числе markdown
 - [@lskjs/chat](./packages/chat/README.md) – react компоненты для чата ПРИДУМКА СОНИ TODO: нужно уже оформить
